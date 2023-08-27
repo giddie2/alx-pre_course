@@ -1,6 +1,0 @@
-echo "*~" >> .gitignore
-
-*~
-exit
-rm .gitignore
-echo echo *~
